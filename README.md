@@ -1,9 +1,9 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leandro Jaoude</h1>
 <h3 align="center">I am the Product Maneger.</h3>
 
-- 🔭 I used to work as a backend developer, **now I'm a Product manager**
+- 🔭 I used to work as a backend developer, **now I'm a Product Manager**
 
-- 🌱 I’m currently learning **Things that have nothing to do with the Law**
+- 🌱 I’m currently learning **things that have nothing to do with the Law**
 
 - 💬 Ask me about **JavaScript, SQL, Git, NodeJS and Agile methodologies (eg Scrum)**
 
